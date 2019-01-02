@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "first_name": "Teoman",
+            "last_name": "Aydogan",
+            "username": "taydogan",
+            "emoji": "\ud83d\udc4d"
+        },
+        {
+            "first_name": "Bilal",
+            "last_name": "Aydogan",
+            "username": "baydogan",
+            "emoji": "\ud83d\udc4d"
+        },
+        {
+            "first_name": "Ibrahim",
+            "last_name": "Aydogan",
+            "username": "iaydogan",
+            "emoji": "\ud83d\udc4d"
+        },
+        {
+            "first_name": "Gamze",
+            "last_name": "Aydogan",
+            "username": "gaydogan",
+            "emoji": "\ud83d\udc4d"
+        },
+        {
+            "first_name": "Murat",
+            "last_name": "Aydogan",
+            "username": "maydogan",
+            "emoji": "\ud83d\udc4d"
+        }
+    ]
+}
